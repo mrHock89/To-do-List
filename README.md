@@ -8,7 +8,7 @@ This is a simple and responsive **To-Do List web application** built using **HTM
 - ✏️ Edit an existing task
 - ❌ Delete tasks
 - ✅ Mark tasks as completed (with strikethrough)
-- 💾 Persist tasks using **Local Storage** (no database required)
+- 💾 Persist tasks using **Local Storage**
 - 🎨 Clean, minimal, and responsive UI
 
 ---
